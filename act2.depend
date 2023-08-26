@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1693020878 source:d:\documentos\6tosemestre\sspa\act2\administradora.cpp
+	"administradora.h"
+
+1693020896 d:\documentos\6tosemestre\sspa\act2\administradora.h
+	<iostream>
+	"neurona.h"
+	<list>
+
+1693020942 d:\documentos\6tosemestre\sspa\act2\neurona.h
+	<iostream>
+
+1693021156 source:d:\documentos\6tosemestre\sspa\act2\main.cpp
+	"neurona.h"
+	"administradora.h"
+	<iostream>
+
